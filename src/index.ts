@@ -228,7 +228,7 @@ function pipe(...functions: Array<Function>): () => Promise<BrowserEnvironment> 
 function getChromiumExecutable(browserEnvironment: BrowserEnvironment) {
   const executable =
     process.platform === 'win32'
-      ? 'C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe'
+      ? 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
       : process.platform === 'linux'
       ? '/usr/bin/google-chrome'
       : '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'

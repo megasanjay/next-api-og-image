@@ -1,6 +1,6 @@
 {
-  "name": "next-api-og-image",
-  "version": "4.2.0",
+  "name": "megasanjay-next-api-og-image",
+  "version": "5.0.1",
   "description": "Easy way to generate open-graph images dynamically using Next.js API Routes.",
   "scripts": {
     "prepublishOnly": "npm run build",
@@ -9,13 +9,13 @@
     "build:watch": "microbundle watch"
   },
   "author": {
-    "name": "Igor Klepacki",
-    "email": "neg4n@icloud.com",
-    "url": "https://neg4n.dev/"
+    "name": "Sanjay Soundarajan",
+    "email": "contact@sanjaysoundarajan.dev",
+    "url": "https://sanjaysoundarajan.dev/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neg4n/next-api-og-image"
+    "url": "git+https://github.com/megasanjay/next-api-og-image"
   },
   "keywords": [
     "nextjs",
@@ -27,9 +27,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/neg4n/next-api-og-image/issues"
+    "url": "https://github.com/megasanjay/next-api-og-image/issues"
   },
-  "homepage": "https://github.com/neg4n/next-api-og-image#readme",
+  "homepage": "https://github.com/megasanjay/next-api-og-image#readme",
   "source": "src/index.ts",
   "main": "./lib/next-api-og-image.cjs",
   "module": "./lib/next-api-og-image.module.js",

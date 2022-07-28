@@ -20,9 +20,9 @@ _you can treat this project as simpler and configurable version of mentioned ear
 In your [Next.js][next-homepage] project, execute:
 
 ```sh
-npm i next-api-og-image chrome-aws-lambda
+npm i megasanjay-next-api-og-image chrome-aws-lambda
 # or
-yarn add next-api-og-image chrome-aws-lambda
+yarn add megasanjay-next-api-og-image chrome-aws-lambda
 ```
 
 ### Short note about the peer dependencies
